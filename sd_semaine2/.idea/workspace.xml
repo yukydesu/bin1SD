@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d541a22e-a22e-44e1-99b6-c6a1018ad620" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../algo-github/Juin2023/Juin2023avecPC.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/Juin2023/TableEntiersNonNuls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/Juin2023/TestTableEntiersNonNuls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/Juin2023/src/TableEntiersNonNuls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/Juin2023/src/TestTableEntiersNonNuls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjet-quizz/DescriptionClassesQuizz.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjet-quizz/PresentationQuizz.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjet-quizz/src/Candidat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjet-quizz/src/Equipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjet-quizz/src/FenetreQuizz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjet-quizz/src/QuestionCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjet-quizz/src/Questionnaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjet-quizz/src/Quizz1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjet-quizz/src/Quizz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjet-quizz/src/TestEquipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjet-quizz/src/TestQuestionnaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/Images/enterP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/Images/pendu0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/Images/pendu1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/Images/pendu2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/Images/pendu3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/Images/pendu4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/Images/pendu5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/Images/pendu6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/src/FenetrePendu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/src/JeuDuPendu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/src/LettresLues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/src/MotACompleter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/src/TestLettresLues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/MiniProjetLePendu/src/TestMotACompleter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/Semaine6Methode/src/CalculBMIV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/Semaine6Methode/src/Dessins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/Semaine6Methode/src/Multiplications3Essais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/Semaine6Methode/src/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/Semaine6Methode/src/calculBMIV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/AlgorithmeDrapeauHollandais.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/DrapeauBelge.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/FicheComplexite.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/TriBicolore.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/src/DrapeauBicolore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/src/DrapeauTricolore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/src/Ecolier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/src/EtudiantCotesNonTriees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/src/EtudiantCotesTriees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/src/NoirJauneRouge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/src/Test6casNoirJauneRouge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/src/TestEtudiantCotesNonTriees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/src/TestEtudiantCotesTriees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineComplexite/src/TestPersoNoirJauneRouge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineTriCompatge/src/TriParComptage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/SemaineTriCompatge/src/TriParSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TableTriee/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TableTriee/src/ParticipantsV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TableTriee/src/TableauTrieDEntiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TableTriee/src/TableauTrieDEntiersPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TableTriee/src/TestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TableTriee/src/TestParticipantsV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TableTriee/src/TestTableauTrieDEntiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TableTriee/src/TestTableauTrieDEntiersPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TablesNonTriee/src/ParticipantsV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TablesNonTriee/src/ParticipantsV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TablesNonTriee/src/TableauNonTrieDEntiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TablesNonTriee/src/TableauNonTrieDEntiersV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TablesNonTriee/src/TestParticipantsV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TablesNonTriee/src/TestParticipantsV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TablesNonTriee/src/TestTableauNonTrieDEntiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algo-github/TablesNonTriee/src/TestTableauNonTrieDEntiersV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche5MethodeDeClasse/src/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche5MethodeDeClasse/src/toString_AppelTelephonique.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche6Magi/src/TropDeCartesException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche6_Heritage/src/Affichage_TestBar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche6_Heritage/src/TestBoisson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche6_Heritage/src/affichage_TestBoisson.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche8ex1/src/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche8ex1/src/DVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche8ex1/src/Livre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche8ex1/src/Panier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche8ex1/src/PanierPleinException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche8ex1/src/Produit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche8ex1/src/ProduitAvecTitre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche8ex1/src/ProduitNonPresentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/Fiche8ex1/src/TestPanier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/fiche4associationMultipleArrayListEgaliteStructurelle/src/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/fiche4associationMultipleArrayListEgaliteStructurelle/src/Commande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/fiche4associationMultipleArrayListEgaliteStructurelle/src/Livre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/fiche4associationMultipleArrayListEgaliteStructurelle/src/TestCatalogue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/fiche4associationMultipleArrayListEgaliteStructurelle/src/TestCommande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../apoo-github/fiche4associationMultipleArrayListEgaliteStructurelle/src/affichage_testCatalogue.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/Fiche7polynomes/src/NumeriqueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/Fiche7polynomes/src/Polynome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/Fiche7polynomes/src/TestPolynome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/Fiche8/Fiche 8 Suites.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/Fiche8/src/Elt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/Fiche8/src/Io.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/Fiche8/src/MathException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/Fiche8/src/Suite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/Fiche8/src/SuiteDeBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/Fiche8/src/SuiteTriee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/Fiche8/src/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2022/src/Elt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2022/src/Io.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2022/src/MathException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2022/src/Suite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2022/src/SuiteDeBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2022/src/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2023/src/Elt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2023/src/Io.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2023/src/MathException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2023/src/Suite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2023/src/SuiteDeBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math-github/math-janvier2023/src/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math2/math2_ensembles/src/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math2/math2_ensembles/src/Elt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math2/math2_ensembles/src/Ens1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math2/math2_ensembles/src/Ens1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math2/math2_ensembles/src/Ens2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math2/math2_ensembles/src/Ens2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math2/math2_ensembles/src/EnsembleAbstrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math2/math2_ensembles/src/EnsembleInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math2/math2_ensembles/src/MathException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math2/math2_ensembles/src/TestEnsemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../math2/math2_ensembles/src/TestEnsembleBis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devweb-github/Micode/Micode2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devweb-github/Micode/micode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devweb-github/Micode/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devweb-github/Planning_HTML_2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../devweb-github/html-balises.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2bwVTpogWSOupE9d5r47AxqICFC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kylliandelbauche/Desktop/vinci1/sd1/sd_semaine2/pdf&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pdf" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d541a22e-a22e-44e1-99b6-c6a1018ad620" name="Changes" comment="" />
+      <created>1707126138681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707126138681</updated>
+      <workItem from="1707126139681" duration="467000" />
+      <workItem from="1707223695093" duration="5611000" />
+      <workItem from="1707248853615" duration="1000" />
+      <workItem from="1707291117087" duration="1766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
